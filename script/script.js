@@ -23,7 +23,6 @@ function putValusInData(jsonObj) {
 	let text = "";
       
     arrTextJason.forEach(str => {
-		// for(input in arrInputValues) {
         arrInputValues.forEach(input => {
 			str = str.replace('{var1}', arrInputValues[0]);
 			str = str.replace('{var2}', arrInputValues[1]);
