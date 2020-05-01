@@ -39,7 +39,7 @@ function putValusInData(jsonObj) {
 
 function processRequest(event) {
 	$.getJSON(dataURL, putValusInData);;
-	event.preventDefault(); //РАЗОБРАТЬ
+	event.preventDefault();
 };
 
 function init() {
