@@ -23,17 +23,18 @@ function putValusInData(jsonObj) {
 	let text = "";
       
     arrTextJason.forEach(str => {
-		for(input in arrInputValues) {
+		// for(input in arrInputValues) {
+        arrInputValues.forEach(input => {
 			str = str.replace('{var1}', arrInputValues[0]);
 			str = str.replace('{var2}', arrInputValues[1]);
 			str = str.replace('{var3}', arrInputValues[2]);
 			str = str.replace('{var4}', arrInputValues[3]);
 			str = str.replace('{var5}', arrInputValues[4]);
 			str = str.replace('{var6}', arrInputValues[5]);
-			str = str.replace('{speach}', arrInputValues[6]);
-		};
-        text += `<span>${str}<\span> <br>`;    
-    });
+            str = str.replace('{speach}', arrInputValues[6]);
+        });
+        text += `<span>${str}<\span> <br>`;
+	});
     $("#result").html(text);
 };
 
