@@ -1,7 +1,7 @@
 # Create text using json
 
-![Иллюстрация к проекту](https://github.com/AlenaPliusnina/Create_text_using_json/blob/master/screenshoots/fairy_tale_1.png) 
-![Иллюстрация к проекту](https://github.com/AlenaPliusnina/Create_text_using_json/blob/master/screenshoots/fairy_tale_2.png) 
+![Иллюстрация к проекту](https://github.com/AlenaPliusnina/Create_text_using_json/blob/master/screenshots/fairy_tale_1.png) 
+![Иллюстрация к проекту](https://github.com/AlenaPliusnina/Create_text_using_json/blob/master/screenshots/fairy_tale_2.png) 
 
 ТЗ:
 
