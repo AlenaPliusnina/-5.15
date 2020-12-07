@@ -1,5 +1,8 @@
 # Create text using json
 
+![Иллюстрация к проекту](https://github.com/AlenaPliusnina/Create_text_using_json/blob/master/screenshoots/fairy_tale_1.png) 
+![Иллюстрация к проекту](https://github.com/AlenaPliusnina/Create_text_using_json/blob/master/screenshoots/fairy_tale_2.png) 
+
 ТЗ:
 
 1. Использовать текст сказки про курочку Рябу (https://api.jsonbin.io/b/5f1759b5c1edc466175baf5f):
@@ -14,3 +17,7 @@
 4. При клике на кнопку «Создать текст» необходимо выводить текст, данный в пункте 1.
 
 5. При клике на кнопку «Заменить переменные» необходимо выводить текст, в котором {var1} и другие вставки заменятся на значения, введенные в соответствующие им инпуты.
+
+Реализация:
+
+   - https://alenapliusnina.github.io/Create_text_using_json/
