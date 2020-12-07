@@ -1,4 +1,4 @@
-const dataURL = "https://api.jsonbin.io/b/5e905926172eb643896166e7";
+const dataURL = "https://api.jsonbin.io/b/5f1759b5c1edc466175baf5f";
 
 function getInputValues() {
     const var1 = $("input[name=var1]").val();
